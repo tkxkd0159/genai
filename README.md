@@ -1,8 +1,8 @@
 # References
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [Learn Prompting](https://learnprompting.org/docs/intro)
-* [ChatGPT Prompts Examples](https://flowgpt.com/)
 * [LangChain: GenAI tookkit](https://www.langchain.com/langchain)
+* [FlowGPT: GPT Marketplace](https://flowgpt.com/)
 * [Durable: AI Website Builder](https://durable.co/)
 * [Framer: AI Website Builder](https://www.framer.com/?via=elegantthemes)
 * General
@@ -17,3 +17,4 @@
   * [DALL·E 3](https://openai.com/dall-e-3)
   * [MS Bing Image Creator](https://www.bing.com/images/create)
   * [Adove Firefly](https://www.adobe.com/products/firefly.html)
+  * [Playground AI](https://playground.com/)
