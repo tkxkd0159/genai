@@ -1,3 +1,21 @@
+- [Techniques](#techniques)
+  - [Injesting Domain Knowledge](#injesting-domain-knowledge)
+    - [Full Fine Tuning](#full-fine-tuning)
+    - [Parameter Efficient Fine-Tuning (PEFT)](#parameter-efficient-fine-tuning-peft)
+- [References](#references)
+
+
+# Techniques
+
+## Injesting Domain Knowledge
+Need to take into account `Total Training Time`, `Inference Speed`, `Total Benchmark Accuracy`, `Number of Parameters` when selecting a tuning strategy.
+
+### Full Fine Tuning
+(e.g. MedLM Sec-PaLM)
+
+### Parameter Efficient Fine-Tuning (PEFT)
+Low-Rank Adaptation(LoRA), QLoRA, Infused Adapter by Inhibiting and Amplifying Inner Activations(IA3)
+
 # References
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [Learn Prompting](https://learnprompting.org/docs/intro)
