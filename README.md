@@ -25,6 +25,12 @@
 * Voice
   * [ElevenLabs: TTS](https://elevenlabs.io/)
   * [PlayHT](https://play.ht/)
+* Video
+  * [Veo](https://deepmind.google/technologies/veo/) (Google),
+  * [Sora](https://openai.com/index/sora/) (OpenAI)
+  * [DreamMachine](https://lumalabs.ai/dream-machine)
+  * [Kling](https://klingai.org/) (China)
+  * [Showrunner](https://www.showrunner.xyz/)
 * Web
   * [Durable: AI Website Builder](https://durable.co/)
   * [Framer: AI Website Builder](https://www.framer.com/?via=elegantthemes)
