@@ -6,6 +6,9 @@
 
 
 # Techniques
+> Prompting is the process of structuring text that can be interpreted and understood by a generative AI model
+
+
 
 ## Injesting Domain Knowledge
 Need to take into account `Total Training Time`, `Inference Speed`, `Total Benchmark Accuracy`, `Number of Parameters` when selecting a tuning strategy.
