@@ -20,10 +20,14 @@ Need to take into account `Total Training Time`, `Inference Speed`, `Total Bench
 Low-Rank Adaptation(LoRA), QLoRA, Infused Adapter by Inhibiting and Amplifying Inner Activations(IA3)
 
 # References
-* [Prompt Engineering Guide](https://www.promptingguide.ai/)
-* [Learn Prompting](https://learnprompting.org/docs/intro)
+* Guide
+  * [Prompt Engineering Guide](https://www.promptingguide.ai/)
+  * [Learn Prompting](https://learnprompting.org/docs/intro)
 * [LangChain: GenAI tookkit](https://www.langchain.com/langchain)
-* [FlowGPT: GPT Marketplace](https://flowgpt.com/)
+* Community
+  * [FlowGPT: GPT Marketplace](https://flowgpt.com/)
+  * [PromptHero: sharing img prompts](https://prompthero.com/)
+  * [PromptPal: sharing prompts](https://www.promptpal.net/?via=topaitools)
 * General
   * [OpenAI ChatGPT](https://chat.openai.com/)
   * [Google Gemini](https://gemini.google.com/app)
